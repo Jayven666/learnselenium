@@ -9,5 +9,5 @@ driver.get("http://101.133.169.100/yuns/index.php")
 driver.maximize_window()
 # 5.对象名.find_element_by_id("id属性值")，定位控件中的第1种方式；
 # .click()方法实现点击的动作
-driver.find_element_by_id("cart_num").click()
+driver.find_element_by_id("cart_numaaa").click()
 
